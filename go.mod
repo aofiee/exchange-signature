@@ -1,4 +1,4 @@
-module exchangesignature
+module github.com/aofiee/exchangesignature
 
 go 1.22.1
 
